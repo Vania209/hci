@@ -51,6 +51,7 @@
 Οι εντολές neofetch και journalctl -b αντίστοιχα:
 
 https://asciinema.org/a/mDzua4tMR1SSdZ99MquUTrrBu
+
 https://asciinema.org/a/YouF92gJw3sYeAMHWCWU7QqIZ
 
 Brain status=critical.
@@ -64,4 +65,5 @@ Repositories τις ομάδας: τα md στο [_gallery](https://github.com/C
 Σύνδεσμοι για το Netlify:
 
 https://snazzy-beignet-c23a1e.netlify.app/gallery/qnx/
+
 https://snazzy-beignet-c23a1e.netlify.app/gallery/os2/
