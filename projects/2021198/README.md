@@ -18,7 +18,7 @@
 | --- | --- | --- | --- |
 | 1 | Εισαγωγή| [Click](https://github.com/courses-ionio/help/discussions/891) | |
 | 2 | Άσκηση γραμμής εντολών (linux install) | [Click](https://github.com/courses-ionio/help/discussions/1090) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | Συμμετοχικό περιεχόμενο A1 | [Click](https://github.com/courses-ionio/help/discussions/1359) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
