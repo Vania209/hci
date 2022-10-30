@@ -73,5 +73,3 @@ https://snazzy-beignet-c23a1e.netlify.app/gallery/os2/
 Κατάφερα με επιτυχία να εκτελέσω την εντολή wttr από τη λίστα [warmup](https://github.com/epidrome/dokey#warmup).
 
 WTTR: https://asciinema.org/a/onmK04yaa8YipiZKNjJCbhqaO
-
-[Αναφορά](https://github.com/Vania209/hci/tree/2021198/projects/2021198)
