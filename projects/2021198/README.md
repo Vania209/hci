@@ -33,7 +33,7 @@
 <br /><br />
 
 
-## Εβδομάδα Πρώτη - Εισαγωγή
+## Πρώτη Εβδομάδα - Εισαγωγή
 
 <br /> 
 
@@ -43,7 +43,7 @@
 
 Ως Ιωάννης Σαββουλίδης, δεν έχω συγκεκριμένα σχέδια για την καριέρα μου, αλλά έχω μεγάλο ενδιαφέρον για την ανάπτυξη ιστοτόπων και την κρυπτογράφηση. Μαθαίνοντας καλύτερα τη διεπαφή χρήστη και τις τακτικές που περιστρέφονται γύρω από αυτό, μπορώ να είμαι καλύτερος στη δουλειά μου. Όσον αφορά την κρυπτογραφία, αυτό το μάθημα με εισήγαγε σε νέα περιβάλλοντα εκτός από τα κανονικά windows 10, μια εμπειρία που πιθανότατα θα με βοηθήσει αν σκεφτώ ποτέ να μελετήσω σοβαρά την κρυπτογραφία.
 
-## Εβδομάδα Δεύτερη - Arch Linux
+## Δεύτερη Εβδομάδα - Arch Linux
 
 <br /> 
 
@@ -56,7 +56,7 @@ https://asciinema.org/a/YouF92gJw3sYeAMHWCWU7QqIZ
 
 Brain status=critical.
 
-## Εβδομάδα Τρίτη - Netlify
+## Τρίτη Εβδομάδα - Netlify
 
 <br /> 
 
@@ -67,3 +67,11 @@ Repositories τις ομάδας: τα md στο [_gallery](https://github.com/C
 https://snazzy-beignet-c23a1e.netlify.app/gallery/qnx/
 
 https://snazzy-beignet-c23a1e.netlify.app/gallery/os2/
+
+## Τέταρτη Εβδομάδα - Warmup
+
+Κατάφερα με επιτυχία να εκτελέσω την εντολή wttr από τη λίστα [warmup](https://github.com/epidrome/dokey#warmup).
+
+WTTR: https://asciinema.org/a/onmK04yaa8YipiZKNjJCbhqaO
+
+[Αναφορά](https://github.com/Vania209/hci/tree/2021198/projects/2021198)
