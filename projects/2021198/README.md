@@ -60,7 +60,7 @@ Brain status=critical.
 
 <br /> 
 
-Repositories τις ομάδας: τα md στο [_gallery](https://github.com/ContattoContare/_gallery/pull/6) και τις εικόνες τους στο [images](https://github.com/ContattoContare/images/pull/6)
+Repositories τις ομάδας: τα md στο [_gallery](https://github.com/ContattoContare/_gallery/pull/7) και τις εικόνες τους στο [images](https://github.com/ContattoContare/images/pull/7)
 
 Σύνδεσμοι για το Netlify:
 
