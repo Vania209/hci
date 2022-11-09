@@ -73,3 +73,11 @@ https://snazzy-beignet-c23a1e.netlify.app/gallery/os2/
 Κατάφερα με επιτυχία να εκτελέσω την εντολή wttr από τη λίστα [warmup](https://github.com/epidrome/dokey#warmup).
 
 WTTR: https://asciinema.org/a/onmK04yaa8YipiZKNjJCbhqaO
+
+## Πέμπτη Εβδομάδα
+
+Συνέβαλα στα χρονοδιαγράμματα και τις διαφάνειες ενός μέλους της ομάδας (Το qnx και OS2). Στο εγγύς μέλλον, θα εξηγήσω περαιτέρω τη διαδικασία και θα δώσω μια πιο λεπτομερή αναφορά. Σας ευχαριστούμε για την κατανόηση.
+
+https://snazzy-beignet-c23a1e.netlify.app/timeline/gui/
+
+https://snazzy-beignet-c23a1e.netlify.app/slides/operating-systems/
