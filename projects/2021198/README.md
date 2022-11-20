@@ -50,11 +50,10 @@
 Το Arch Linux εγκαταστάθηκε με επιτυχία μέσω dual-booting με USB.
 Οι εντολές neofetch και journalctl -b αντίστοιχα:
 
-https://asciinema.org/a/mDzua4tMR1SSdZ99MquUTrrBu
+https://asciinema.org/a/538999
 
 https://asciinema.org/a/YouF92gJw3sYeAMHWCWU7QqIZ
 
-Brain status=critical.
 
 ## Τρίτη Εβδομάδα - Netlify
 
