@@ -52,8 +52,7 @@
 
 https://asciinema.org/a/538999
 
-https://asciinema.org/a/YouF92gJw3sYeAMHWCWU7QqIZ
-
+https://asciinema.org/a/539001
 
 ## Τρίτη Εβδομάδα - Netlify
 
@@ -71,7 +70,7 @@ https://snazzy-beignet-c23a1e.netlify.app/gallery/os2/
 
 Κατάφερα με επιτυχία να εκτελέσω την εντολή wttr από τη λίστα [warmup](https://github.com/epidrome/dokey#warmup).
 
-WTTR: https://asciinema.org/a/onmK04yaa8YipiZKNjJCbhqaO
+WTTR: https://asciinema.org/a/533493
 
 ## Πέμπτη Εβδομάδα
 
