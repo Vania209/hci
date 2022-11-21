@@ -76,14 +76,30 @@ https://snazzy-beignet-c23a1e.netlify.app/gallery/os2/
 
 ## Τέταρτη Εβδομάδα - Warmup
 
+<br /> 
+
 Κατάφερα με επιτυχία να εκτελέσω την εντολή wttr από τη λίστα [warmup](https://github.com/epidrome/dokey#warmup).
 
 WTTR: https://asciinema.org/a/533493
 
 ## Πέμπτη Εβδομάδα
 
+<br /> 
+
 Έχω προσθέσει με επιτυχία τα θέματά μου στο χρονοδιάγραμμα και τις διαφάνειες που δημιουργήσαμε εγώ και η ομάδα μου. Αυτά που έχω συνεισφέρει είναι αυτά που επέλεξα από την εβδομάδα 3, OS2 και QNX σύμφωνα με τις οδηγίες της εργασίας.
 
 https://snazzy-beignet-c23a1e.netlify.app/timeline/gui/
 
 https://snazzy-beignet-c23a1e.netlify.app/slides/operating-systems/
+
+## Έκτη Εβδομάδα
+
+<br /> 
+
+Η έκτη εργασία ολοκληρώθηκε. Πρόσθεσα ένα κείμενο μέσω pandoc και lua στο PDF στο κεφάλαιο 6.1 (Υπολογιστής ως Έταιρος), σελίδα 92 έως 93.
+
+[Screenshot](https://github.com/Vania209/kallipos/tree/master/mypictures)
+
+[Book](https://github.com/Vania209/kallipos/tree/master/book)
+
+[Repository](https://github.com/Vania209/kallipos)
